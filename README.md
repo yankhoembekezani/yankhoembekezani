@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
+💻 Aspiring Data Scientist | Machine Learning | Python | SQL  
 
-<!--
-**yankhoembekezani/yankhoembekezani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+- 🎯 Passionate about data science, AI, and analytics.  
+- 📊 Currently learning advanced ML & deep learning.  
+- 📚 Always improving my problem-solving skills.  
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+- **Programming:** Python, SQL, R  
+- **Data Science:** Pandas, NumPy, Scikit-Learn  
+- **Machine Learning:** TensorFlow, PyTorch  
+- **Databases:** PostgreSQL, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/yankhoembekezani)  
