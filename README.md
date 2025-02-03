@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Yankho Embekezani 
 💻 Aspiring Data Scientist | Machine Learning | Python | SQL  
 
 🚀 **About Me:**  
