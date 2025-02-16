@@ -1,16 +1,13 @@
-# 👋 Hi, I'm Yankho Embekezani 
-💻 Aspiring Data Scientist | Machine Learning | Python | SQL  
+# 👋 Hi, I'm Yankho Embekezani!  
+🚀 **AI/MLOps Engineer | Cloud & DevOps Enthusiast**  
 
-🚀 **About Me:**  
-- 🎯 Passionate about data science, AI, and analytics.  
-- 📊 Currently learning advanced ML & deep learning.  
-- 📚 Always improving my problem-solving skills.  
+🌟 Passionate about deploying scalable AI models & automating ML workflows!  
 
-🔧 **Tech Stack:**  
-- **Programming:** Python, SQL, R  
-- **Data Science:** Pandas, NumPy, Scikit-Learn  
-- **Machine Learning:** TensorFlow, PyTorch  
-- **Databases:** PostgreSQL, MySQL  
+🔹 **Key Skills:**  
+- MLOps | Cloud AI Deployment | Kubernetes  
+- Docker | CI/CD for ML | Infrastructure as Code  
+- FastAPI | Flask | Model Optimization  
 
-📫 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/yankhoembekezani)  
+💡 Currently working on: **End-to-End AI Deployment Projects** 
+
+📫 Reach me at: **mihowa6@gmail.com** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/yankhoembekezani) 
