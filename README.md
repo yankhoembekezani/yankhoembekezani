@@ -1,40 +1,67 @@
-👋 Hi, I'm Yankho Embekezani
-🚀 Practical Web & Digital Tools for Small Businesses
+# 👋 Hi, I'm Yankho Embekezani  
+## Python Backend & Automation Developer
 
-I help small businesses get customers and communicate better through simple, fast, and effective web solutions.  
-My focus is on delivering tangible results quickly, with tools that are easy to use and cost-effective.
-
---- 
-
-🛠 Core Expertise
-- Simple Business Websites
-- WhatsApp & Contact Integration
-- Google Maps & Local Listings
-- Fast Deployment & Delivery
-- Customer-focused Design
-  
----
-
-📂 Featured Work
-Demo Business Page
-A ready-to-deploy example page for local businesses showcasing:
-- Services, prices, and contact info
-- Click-to-WhatsApp integration
-- Mobile-friendly layout
-- Simple hosting via GitHub Pages
-
-This project demonstrates how a small, functional site can increase visibility and attract real customers fast.
+I build backend systems and automate repetitive business workflows using Python.  
+My focus is on APIs, data processing, and practical automation that reduces manual work and improves efficiency.
 
 ---
 
-- 📈 What I Deliver
-- ✅ Quick-to-deploy business pages
-- ✅ Clear, mobile-friendly layouts that customers can access easily
-- ✅ Integration with WhatsApp for instant communication
-- ✅ Simple setup that requires no tech knowledge from business owners
+## 🛠 Core Expertise
 
-📫 Work With Me
-🚀 Need a simple business page that brings in customers fast?  
-Reach out today and I’ll set it up for you in 1–2 days.
+- Backend API Development (FastAPI / Flask)
+- Workflow Automation with Python
+- CSV & Data Processing (pandas)
+- Web Scraping & Data Extraction
+- Database Design (PostgreSQL)
+- Debugging & Backend Cleanup
 
-📩 Email: mihowa6@gmail.com
+---
+
+## 📂 Featured Work
+
+### CSV Automation Tool
+
+A Python-based utility that:
+
+- Cleans messy CSV files
+- Removes duplicates
+- Normalizes column structures
+- Outputs structured, analysis-ready data
+
+**Tech:** Python, pandas  
+
+🔗 github.com/yankhoembekezani/csv-cleaner
+
+---
+
+### (Next Projects Coming Soon)
+
+- Automated Report Generator
+- Data Merger & Summary Tool
+
+---
+
+## 📈 What I Deliver
+
+- Automation of repetitive spreadsheet workflows
+- Data cleanup and restructuring
+- Custom Python scripts for internal tools
+- Lightweight backend systems for small teams
+- Fast 3–5 day automation sprints
+
+---
+
+## 🎯 Current Focus
+
+- Scalable backend architecture
+- Process automation systems
+- Clean, maintainable Python code
+- Building practical tools that save time
+
+---
+
+## 📫 Work With Me
+
+If you have repetitive data tasks or manual workflows slowing your operations, I can likely automate them within a few days.
+
+📩 **Email:** mihowa6@gmail.com
