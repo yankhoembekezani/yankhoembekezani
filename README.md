@@ -30,7 +30,7 @@ A Python-based utility that:
 
 **Tech:** Python, pandas  
 
-🔗 [csv-cleaner](github.com/yankhoembekezani/csv-cleaner)
+🔗 [csv-cleaner](https://github.com/yankhoembekezani/csv-cleaner)
 
 ---
 
